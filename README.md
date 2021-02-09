@@ -1,3 +1,11 @@
+# To View the deployed app visit the below link
+
+https://shivasinghal2000.github.io/VideoSearchEngine/
+
+# Project description
+
+We can search videos of anything like cars, plants, flowers, quotes, baby and many more. We have used Youtube API to search videos. Whenever user search for something it post request to Youtube API and from there we fetch videos of that object.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
