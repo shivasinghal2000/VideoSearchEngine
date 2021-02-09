@@ -4,7 +4,7 @@ https://shivasinghal2000.github.io/VideoSearchEngine/
 
 # Project description
 
-We can search videos of anything like cars, plants, flowers, quotes, baby and many more. We have used Youtube API to search videos. Whenever user search for something it post request to Youtube API and from there we fetch videos of that object.
+We can search videos of anything like cars, plants, flowers, quotes, baby and many more. We have used Youtube API to search videos. Whenever user search for something it post request to Youtube API and from there we fetch videos of that object. We have initialized the page with default videos of buildings.
 
 # Getting Started with Create React App
 
